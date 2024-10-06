@@ -2,11 +2,15 @@
 
 This is a simple task manager application developed using JavaScript and HTML. The app allows users to add tasks dynamically and delete them as needed. It’s a lightweight project, perfect for managing personal to-dos or for educational purposes to demonstrate basic DOM manipulation.
 
+
 **Features**
 
   a) Add Tasks: Users can add as many tasks as they need.
+  
   b) Delete Tasks: Each task comes with a delete option that allows users to remove it from the list.
+  
   c) Dynamic Updates: Tasks are displayed dynamically without page reload using JavaScript to manipulate the DOM.
+
 
 **Technology Stack**
 
@@ -22,10 +26,11 @@ This is a simple task manager application developed using JavaScript and HTML. T
   
   3.Use the input field to add tasks, and click the delete button next to each task to remove it.
 
-  4.Future Improvements (Optional)
 
-  5.Add task completion functionality (e.g., strike-through tasks).
+**Future Improvements**
 
-  6.Store tasks in local storage so they persist after page reload.
+  1.Add task completion functionality (e.g., strike-through tasks).
 
-  7.Add edit functionality for existing tasks.
+  2.Store tasks in local storage so they persist after page reload.
+
+  3.Add edit functionality for existing tasks.
