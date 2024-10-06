@@ -11,6 +11,7 @@ This is a simple task manager application developed using JavaScript and HTML. T
 **Technology Stack**
 
   a)HTML: For the structure of the web page.
+  
   b)JavaScript: For handling task addition and deletion functionalities.
 
 **How to Use**
